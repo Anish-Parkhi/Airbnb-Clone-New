@@ -6,7 +6,8 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='inner-div' >
-        <span className='para text-mute'>©2022 Airbnb Clone,Inc. <button  className='btn2 text-mute'> Privacy   </button></span>
+        <span className='para text-mute'>©2022 Airbnb Clone,Inc.</span>
+        <button  className='btn2 text-mute'> Privacy   </button>
         <button  className='btn2 text-mute'>  Terms  </button>
         <button  className='btn2 text-mute'>  Sitemap</button>
         <button  className='btn2 text-mute'>  Company details </button>

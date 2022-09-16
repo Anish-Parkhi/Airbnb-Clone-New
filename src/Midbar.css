@@ -25,3 +25,30 @@ p{
 .house_boat{
     margin-left: 0px;
 }
+
+
+
+
+@media (max-width : 998px){
+
+    .btn1{
+        text-align: center;
+        height: 80px;
+        display: inline-block;
+        width: 100%;
+        overflow-y: scroll !important;
+        overflow-x: scroll !important;
+    }
+
+    /* .scroll{
+        overflow-x: scroll !important;
+    } */
+
+
+
+    .button{
+        margin: 5px;
+        text-align: center;
+        padding: 4px;
+    }
+}

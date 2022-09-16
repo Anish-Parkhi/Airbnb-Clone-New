@@ -44,3 +44,30 @@
     margin: 5px;
     margin-left: 10px;margin-right: 10px;
 }
+
+@media (max-width : 998px){
+
+    .inner-div{
+        text-align: center;
+    }
+    .para{
+        display: block;
+        font-size: 10px;
+        text-align: center;
+        
+    }
+
+    .btn2{
+            font-size: 10px;
+            text-align: center;
+            margin-top: 10px;
+    }
+    .left-text{
+        display: block;
+        margin-right: 20px;
+        margin-top: 15px;
+        font-size: 10px;
+        width: 240px;
+        text-align: center;
+    }
+}

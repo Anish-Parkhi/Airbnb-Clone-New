@@ -19,7 +19,9 @@ import SnowmobileOutlinedIcon from '@mui/icons-material/SnowmobileOutlined';
 function Midbar() {
   return (
     <div className='btn1'>
-        <button className='button'>
+      <div className='scroll'>
+
+      <button className='button'>
         <BeachAccessIcon/>
         <p className='text-muted bottom-text beach'>Beaches</p>
         </button>
@@ -31,10 +33,14 @@ function Midbar() {
         <ParkOutlinedIcon/>
         <p className='text-muted bottom-text beach'>Forests</p>
         </button>
+
+
         <button className='button'>
         <VillaOutlinedIcon/>
         <p className='text-muted bottom-text beach'>Villas</p>
         </button>
+
+
         <button className='button'>
         <CottageOutlinedIcon/>
         <p className='text-muted bottom-text beach'>House</p>
@@ -75,6 +81,10 @@ function Midbar() {
         <p className='text-muted bottom-text beach'>Houseboat</p>
         </button>
 
+
+
+      </div>
+        
 
         
 

@@ -11,3 +11,9 @@ hr{
     flex-direction:row;
     justify-content: space-evenly;
 }
+
+@media (max-width : 998px){
+    .Card__View{
+        display: block;
+    }
+}

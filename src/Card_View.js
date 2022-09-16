@@ -21,11 +21,12 @@ function Card_View() {
                 4-10 Jun
               </Card.Text>
               <Card.Text className='card__rate'> <b>₹17,000/ night</b></Card.Text>
+              <Button className='book_button'>book Now</Button>
             </Card.Body>
           </Card>
 
 
-    <Card className='card__view' style={{ width: '18rem' }}>
+    <Card className='card__view' style={{ width: '18rem'}}>
       <Card.Img variant="top" src={img2} />
       <Card.Body>
         <Card.Title className='card__title'> <b>Exotic Treehouse, Kerla</b></Card.Title>
@@ -36,6 +37,7 @@ function Card_View() {
           8-10 Jun
         </Card.Text>
         <Card.Text className='card__rate'> <b>₹25000/ night</b></Card.Text>
+        <Button className='book_button'>book Now</Button>
       </Card.Body>
     </Card>
     <Card className='card__view' style={{ width: '18rem' }}>
@@ -49,6 +51,7 @@ function Card_View() {
           4-10 Jun
         </Card.Text>
         <Card.Text className='card__rate'><b>₹8500/night</b></Card.Text>
+        <Button className='book_button'>book Now</Button>
       </Card.Body>
     </Card>
     </div>

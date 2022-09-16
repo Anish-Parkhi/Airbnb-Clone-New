@@ -62,3 +62,37 @@
     color: #FF385C;
     margin-left: 2px;
 }
+
+
+@media (max-width : 998px){
+
+    /* .logo_image{
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+    } */
+
+
+    .middle__box{
+        margin: 20px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .middle__box > span{
+        font-size: x-small;
+        color:rgb(195, 195, 195)
+    }
+
+    .search{
+        display: none !important; 
+        visibility: hidden;
+    }
+
+    .logo_image{
+        text-align: center;
+    }
+    .last_text{
+        display: none !important;
+    }
+}

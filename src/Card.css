@@ -25,3 +25,17 @@
     flex-direction: row;
 }
 
+.book_button{
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+
+@media (max-width : 998px){
+    .card__view{
+        display: block;
+        margin: 60px;
+    }
+}
+
