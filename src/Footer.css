@@ -1,0 +1,46 @@
+.btn2{
+    border-style: none;
+    margin-left: 5px;
+    margin: 3px;
+    font-size: small;
+    margin-top: 0px;
+    display: inline;
+    font-size: medium;
+    margin-left: 13px;
+    background-color: #FFFFFF;
+}
+
+
+.inner-div{
+    align-items: left;
+    text-align: left;
+    padding-top : 10px;
+}
+.para{
+    font-size: medium;
+    margin-top: 2px;
+    align-items: left;
+    text-align: left;
+    
+    margin-left: 28px;
+}
+
+.footer{
+    margin-bottom: 18px;
+    border-top: 1px solid #D3D3D3;
+}
+
+.left-text{
+    display: inline;
+    text-align: left;
+    position: relative;
+    left: 30%;
+}
+
+.launguage{
+    margin: 4px;
+}
+.currency{
+    margin: 5px;
+    margin-left: 10px;margin-right: 10px;
+}

@@ -1,0 +1,27 @@
+.card__view {
+    
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.card__title{
+    text-align: left;
+    margin-top: 0px;
+}
+.card__text{
+    text-align: left;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.card__rate{
+    text-align: left;
+    margin-top: 3px;
+    margin-bottom: 1px;
+}
+
+.card-row{
+    display: flex;
+    flex-direction: row;
+}
+

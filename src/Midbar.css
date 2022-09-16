@@ -1,0 +1,27 @@
+.bottom-text{
+    margin-top: 6px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.btn1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+
+.button{
+    border: none;
+    background-color: #FFFFFF ;
+}
+
+p{
+    font-size: small;
+}
+
+.house_boat{
+    margin-left: 0px;
+}
